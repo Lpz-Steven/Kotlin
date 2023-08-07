@@ -22,6 +22,12 @@ Un ejemplo de inicio de sesión con la nueva técnica de navegación de Kotlin e
 
 ...
 
+## Login con splash
+
+![Captura de pantalla](https://github.com/Lpz-Steven/Kotlin/blob/main/logincon%20splah.jpg)
+
+Login similar al anterior pero cuenta con un splash con el logo del sena
+
 ## Calculadora Compose
 
 ![Captura de pantalla](https://github.com/Lpz-Steven/Kotlin/blob/main/calculadora-compose.jpg)
