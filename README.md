@@ -1,6 +1,11 @@
 # Proyectos en Kotlin
 
 En este repositorio, encontrarás varios proyectos desarrollados en Kotlin. Cada proyecto tiene un enfoque y características únicas.
+## Mensajes Resorte
+
+![Captura de pantalla](https://github.com/Lpz-Steven/Kotlin/blob/main/efecto%20resorte.jpg)
+
+Esta app de mensajes muestra un efecto resorte para desplegar el mensaje completo
 
 ## Lista de Tareas
 
@@ -52,11 +57,7 @@ Tienda que hace uso de scroll horizontal y el uso de grid en kotlin
 
 Una aplicación para realizar pedidos de cupcakes con opciones de sabor y cantidad, así como envío de notificaciones.
 
-## Mensajes Resorte
 
-![Captura de pantalla](https://github.com/Lpz-Steven/Kotlin/blob/main/efecto%20resorte.jpg)
-
-Esta app de mensajes muestra un efecto resorte para desplegar el mensaje completo
 
 ## Licencia
 
