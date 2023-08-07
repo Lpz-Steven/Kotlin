@@ -1,0 +1,48 @@
+<!--
+  Copyright 2022 The Android Open Source Project
+
+  Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except
+  in compliance with the License. You may obtain a copy of the License at
+
+  http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software distributed under the License
+  is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express
+  or implied. See the License for the specific language governing permissions and limitations under
+  the License.
+  -->
+<resources>
+    <string name="app_name">MySoothe</string>
+    <string name="favorite_collections">PRODUCTOS</string>
+    <string name="align_your_body">Categorias</string>
+    <string name="ab1_inversions">Carnes</string>
+    <string name="ab2_quick_yoga">Frutas</string>
+    <string name="ab3_stretching">Vegetales</string>
+    <string name="ab4_tabata">Lacteos</string>
+    <string name="ab5_hiit">Granos</string>
+    <string name="ab6_pre_natal_yoga">Huevos</string>
+    <string name="leche_add">Leche</string>
+    <string name="lechuga_add">Lechuga</string>
+    <string name="manzana_add">Manzana</string>
+    <string name="huevos_add">Huevos A</string>
+    <string name="zanahoria_add">Zanahoria</string>
+    <string name="fc6_nightly_wind_down">fresas</string>
+    <string name="bananos_add">Bananos</string>
+    <string name="platano_add">Platanos</string>
+    <string name="carne_de_res_add">Carne De Res</string>
+    <string name="carne_de_cerdo_add">Carne De Cerdo</string>
+    <string name="carne_de_conejo_add">Carne De Conejo</string>
+    <string name="pimenton_add">Pimenton</string>
+    <string name="huevos_a_add">Huevos AA</string>
+    <string name="huevos_b_add">Huevos B</string>
+    <string name="queso_add">Queso</string>
+    <string name="yogurt_add">Yogurt</string>
+    <string name="lenteja_add">Lenteja</string>
+    <string name="arberja_add">Arberja</string>
+    <string name="naranja_add">Naranja</string>
+    <string name="mandarina_add">Mandarina</string>
+    <string name="cd_fab_start">start</string>
+    <string name="bottom_navigation_home">HOME</string>
+    <string name="bottom_navigation_profile">PROFILE</string>
+    <string name="placeholder_search">Buscar</string>
+</resources>

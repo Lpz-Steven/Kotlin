@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "676181585208",
+    "project_id": "loginsingup-auth-fe7d8",
+    "storage_bucket": "loginsingup-auth-fe7d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676181585208:android:d03e778357e2b6d7f7a5cd",
+        "android_client_info": {
+          "package_name": "com.stevenlop.loginsignupauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676181585208-88df2lblc5s92ftu90bke411ikdljlge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kGMlWj2DQ_9L-4MiXnRuMFV758CPr60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676181585208-88df2lblc5s92ftu90bke411ikdljlge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676181585208:android:ecb131906ed49540f7a5cd",
+        "android_client_info": {
+          "package_name": "com.stevenlop.loginsingupauth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "676181585208-88df2lblc5s92ftu90bke411ikdljlge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4kGMlWj2DQ_9L-4MiXnRuMFV758CPr60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "676181585208-88df2lblc5s92ftu90bke411ikdljlge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
