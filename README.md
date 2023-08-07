@@ -1,2 +1,2 @@
 # Kotlin
-![Captura de pantalla](lista de tareas)
+![Captura de pantalla](lista de tareas.jpg)
