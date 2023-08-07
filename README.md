@@ -40,6 +40,12 @@ Una calculadora funcional implementada en XML.
 
 Una aplicación para realizar pedidos de cupcakes con opciones de sabor y cantidad, así como envío de notificaciones.
 
+## Mensajes Resorte
+
+![Captura de pantalla](https://github.com/Lpz-Steven/Kotlin/blob/main/efecto%20resorte.jpg)
+
+Esta app de mensajes muestra un efecto resorte para desplegar el mensaje completo
+
 ## Licencia
 
 Este repositorio se comparte bajo la Licencia XYZ. Consulta el archivo [LICENSE](LICENSE) para más detalles.
