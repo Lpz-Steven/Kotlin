@@ -40,6 +40,12 @@ Una calculadora funcional hecha con Jetpack Compose.
 
 Una calculadora funcional implementada en XML.
 
+## Tienda 
+
+![Captura de pantalla](https://github.com/Lpz-Steven/Kotlin/blob/main/grid.jpg)
+
+Tienda que hace uso de scroll horizontal y el uso de grid en kotlin
+
 ## Pedido de Cupcakes
 
 ![Captura de pantalla](https://github.com/Lpz-Steven/Kotlin/blob/main/cupcake.jpg)
