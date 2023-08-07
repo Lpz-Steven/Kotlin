@@ -1,2 +1,2 @@
 # Kotlin
-![Captura de pantalla](Kotlin/lista de tareas.jpg)
+![Captura de pantalla](https://github.com/Lpz-Steven/Kotlin/blob/main/lista%20de%20tareas.jpg)
